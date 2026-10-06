@@ -1,22 +1,14 @@
-\# GhostHunt
+GhostHunt
 
 
 
-\*\*GhostHunt\*\* is a modular, read-only Windows security anomaly hunter built with PowerShell.
-
-
+GhostHunt is a modular, read-only Windows security anomaly hunter built with PowerShell.
 
 It analyzes endpoint telemetry and correlates multiple security signals to help identify suspicious processes, execution contexts, signatures, and network activity.
 
+GhostHunt is part of the BLACKBOX security engineering toolkit.
 
-
-> GhostHunt is part of the BLACKBOX security engineering toolkit.
-
-
-
-\## Current Capabilities
-
-
+Current Capabilities
 
 \- Process anomaly detection
 
@@ -38,9 +30,7 @@ It analyzes endpoint telemetry and correlates multiple security signals to help 
 
 \- PowerShell 5.1 compatibility
 
-
-
-\## Architecture
+Architecture
 
 
 
