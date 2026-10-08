@@ -5,7 +5,7 @@ BLACKBOX is a security engineering toolkit focused on Windows endpoint visibilit
 The project is designed around a simple principle: Don't rely on a single indicator. Correlate the evidence.
 
 
-👻 GhostHunt 👻
+👻 GhostHunt 👻.  
 A read-only Windows endpoint anomaly hunter.
 GhostHunt analyzes:
 \- Process execution
